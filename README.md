@@ -38,7 +38,7 @@ Calculates the user's rank based on the score.
 - npm install cors
 ## Start the server
 - node words.js
-- The server should start running on [http://localhost:4000.](https://ab003laa.onrender.com/words)
+- The server should start running on https://ab003laa.onrender.com/words
 
 ----------------------------------------------
 # note

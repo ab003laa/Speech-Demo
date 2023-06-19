@@ -67,7 +67,7 @@ const Exam = () => {
 
     // Fetch a new set of words and reset the state
   const handleTryAgain =()=>{
-    fetch('http://localhost:4000/words')
+    fetch('https://ab003laa.onrender.com/words')
     .then((response) => response.json())
     .then((data) => {
       setWords(data);

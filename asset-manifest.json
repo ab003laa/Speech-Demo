@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Speech-Demo/static/css/main.21f75407.css",
+    "main.js": "/Speech-Demo/static/js/main.06d81dd2.js",
+    "static/media/project-counter.jpg": "/Speech-Demo/static/media/project-counter.c62906a4ecddad1d5837.jpg",
+    "index.html": "/Speech-Demo/index.html",
+    "main.21f75407.css.map": "/Speech-Demo/static/css/main.21f75407.css.map",
+    "main.06d81dd2.js.map": "/Speech-Demo/static/js/main.06d81dd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21f75407.css",
+    "static/js/main.06d81dd2.js"
+  ]
+}
